@@ -6,8 +6,6 @@ bin
 # Compiled class file
 *.class
 
-# Log file
-*.log
 
 # BlueJ files
 *.ctxt
