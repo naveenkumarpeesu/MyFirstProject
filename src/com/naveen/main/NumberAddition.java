@@ -7,9 +7,7 @@ public class NumberAddition {
 		System.out.println("This is develope branch");
 		System.out.println("From branchOne and editing");
 		System.out.println("Second one is ");
-
 		System.out.println("Naveen is here 1234");
-
 	}
 
 }
